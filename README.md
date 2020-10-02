@@ -10,5 +10,6 @@
 
 ### Connect with me -:
 
-`Instagram -:` (https://instagram.com/software_user23) </h3>
-<h3>I</h3>
+`Instagram -:` https://instagram.com/software_user23
+`Twitter -:`https://twitter.com/SoftwareUser_
+`Telegram Channel -:` https://t.me/theboxsec
