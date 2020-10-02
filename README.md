@@ -10,4 +10,4 @@
 
 ### Connect with me -:
 
-Instagram -:
+<h3> Instagram -: </h3>
