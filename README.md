@@ -7,6 +7,4 @@
 - 🤔 I do HackTheBox and TryHackMe  
 - 💬 I'm not a professional
 
-
-
-## Connect with me 
+### Connect with me 
