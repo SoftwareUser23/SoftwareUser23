@@ -1,4 +1,4 @@
-![SoftwareUser23's github stats](https://github-readme-stats.vercel.app/api?username=SoftwareUser23&show_icons=true&theme=radical)
+![SoftwareUser23's github stats](https://github-readme-stats.vercel.app/api?username=SoftwareUser23&show_icons=true&theme=tokyonight)
 ### Hi there 👋
 
 <!--
