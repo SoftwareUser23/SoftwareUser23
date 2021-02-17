@@ -8,6 +8,8 @@
 - 💬 I'm not a professional
 ##
 
+[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=softwareuser23&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me -:
 
 `Instagram -:` https://instagram.com/software_user23
